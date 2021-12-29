@@ -11,4 +11,7 @@ class MainActivity : AppCompatActivity() {
         //master
         //this a develop
     }
+    fun sumar(number:Int){
+
+    }
 }
