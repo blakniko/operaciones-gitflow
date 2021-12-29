@@ -11,7 +11,8 @@ class MainActivity : AppCompatActivity() {
         //master
         //this a develop
     }
-    fun sumar(number:Int){
 
+    fun sumar(number: Int) {
+        val modifyResult = 0
     }
 }
