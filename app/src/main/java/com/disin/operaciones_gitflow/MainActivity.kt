@@ -16,4 +16,8 @@ class MainActivity : AppCompatActivity() {
         val result= number+number
         val modifyResult = 0
     }
+
+    fun restar(number: Int){
+
+    }
 }
