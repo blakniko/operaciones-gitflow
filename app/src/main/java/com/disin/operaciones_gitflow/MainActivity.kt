@@ -22,6 +22,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun multiplicar(){
-
+        val number =0
     }
 }
