@@ -20,4 +20,8 @@ class MainActivity : AppCompatActivity() {
     fun restar(number: Int){
     val result = number-number
     }
+
+    fun multiplicar(){
+
+    }
 }
